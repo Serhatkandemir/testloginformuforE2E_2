@@ -5,8 +5,6 @@ import "./index.css";
 
 const rootElement = document.getElementById("root");
 
-// third commit
-
 createRoot(rootElement).render(
   <StrictMode>
     <App />
